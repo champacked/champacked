@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=champacked" alt="champacked" /></a> </p>
 
-- 🔭 I’m currently working on **e-commerce app**
+- 🔭 I’m currently working on **Blogging-app**
 
 - 🌱 I’m currently learning **MERN STACK**
 
