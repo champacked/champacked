@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **amanvijayverma07@gmail.com**
 -  📫 Portfolio  **(https://bit.ly/amanverma-portfolio)**
+-  Currently Learning NextJS
 
 
 <h3 align="left">Connect with me:</h3>
