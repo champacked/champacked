@@ -6,7 +6,7 @@
 
 
 - 📫 How to reach me **amanvijayverma07@gmail.com**
--  📫 Portfolio  **(https://bit.ly/amanverma-portfolio)**
+-  📫 Portfolio  **(https://amanverma-two.vercel.app/)**
 -  Currently Learning NextJS
 
 
